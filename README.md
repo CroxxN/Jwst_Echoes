@@ -1,4 +1,7 @@
-# A sonification system to hear images--especially astronomical images--of the universe played with different instruments.
+# Jwst Echoes
+
+
+### A sonification system to hear images--especially astronomical images--of the universe played with different instruments.
 
 ## How to use?
 

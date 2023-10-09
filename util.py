@@ -13,6 +13,7 @@ import cv2
 from midi2audio import FluidSynth
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
+from audiolazy import str2midi
 # Cheap hack to make the line below work
 
 
